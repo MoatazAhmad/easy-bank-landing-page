@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sans : "Public Sans" , sans-serif;
+    --color-custom-dark-blue: hsl(233, 26%, 24%);
+    --color-custom-lime-green: hsl(136, 65%, 51%);
+    --color-custom-bright-cyan: hsl(192, 70%, 51%);
+    --color-custom-grayish-blue: hsl(233, 8%, 62%);
+    --color-custom-light-grayish-blue: hsl(220, 16%, 96%);
+    --color-custom-very-light-gray: hsl(0, 0%, 98%);
+    --color-custom-white: hsl(0, 0%, 100%);
+}
